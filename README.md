@@ -21,6 +21,6 @@ Implement routing in this React application.
 ## Deployment URL
 
 Add your deployed URL here:
-https://shopkart-routing-assignment-iota.vercel.app/
+https://shopkart-routing-assignment-iupb.vercel.app/
 
 github repositary link - https://github.com/rainageorge14/shopkart-routing-assignment.git
